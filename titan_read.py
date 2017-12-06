@@ -12,10 +12,6 @@ import sys
 
 
 
-#hello
-
-
-
 
 def main():
     imp = sys.argv[1]
@@ -26,9 +22,12 @@ def main():
 
     worksheet = workbook.sheet_by_index(0)
 
-    while a < num_col:
+    while True:     ##### CHANGE THIS
 
-
+        a = 0
+        while a < num_col:
+            worksheet.cell
+            a += 1
 
 if __name__ == "__main__":
     main()
