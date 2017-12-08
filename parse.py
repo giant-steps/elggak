@@ -6,11 +6,14 @@ import pandas as pd
 import os
 os.getcwd()
 
-print(os.path.exists('Documents\Code\elggak\data_dev.csv'))
+#print(os.path.exists('data_dev1.csv'))
 
-print("passed")
+#print("passed")
 
-df = pd.read_csv('Documents\Code\elggak\data_dev.csv')
+df = pd.read_csv('data_dev1.csv')
 
-print(df.sheet_names)
+#print("second")
+
+
+print(df)
 
