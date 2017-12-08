@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="085f5df7-64ee-4e9b-8d0b-9c21163aa057" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parse.py" afterPath="$PROJECT_DIR$/parse.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.~lock.data_dev.ods#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.~lock.data_dev1.csv#" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,7 +30,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="parse.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1var_regs.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1var_regs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+              <folding>
+                <element signature="e#267#285#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parse.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/parse.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -59,6 +72,7 @@
         <option value="$PROJECT_DIR$/.idea/titan_read.py" />
         <option value="$PROJECT_DIR$/titan_read.py" />
         <option value="$PROJECT_DIR$/parse.py" />
+        <option value="$PROJECT_DIR$/1var_regs.py" />
       </list>
     </option>
   </component>
@@ -253,7 +267,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="1" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09394572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -291,6 +305,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#3#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/titan_read.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -301,12 +325,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/parse.py">
+    <entry file="file://$PROJECT_DIR$/1var_regs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="731">
+          <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
           <folding>
-            <element signature="e#3#22#0" expanded="true" />
+            <element signature="e#267#285#0" expanded="true" />
           </folding>
         </state>
       </provider>
