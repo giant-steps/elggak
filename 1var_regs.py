@@ -99,7 +99,7 @@ def main():
 
 
 
-
+    *********THIS MODEL IS LOCATED IN excel folder -- work.xlsm **************
 
 
     Base score is 0.38384
