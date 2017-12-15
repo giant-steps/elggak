@@ -1,18 +1,11 @@
 
-
-### learn pandas
-
 # IMPORT STATEMENTS
 import numpy as np
 import matplotlib.pyplot as plt
 import csv
 import sys
-from scipy import stats
-from pylab import plot,show
 import statsmodels.api as sm
 import pandas as pd
-from sklearn import datasets
-
 
 # MAIN FUNCTION
 def main():
@@ -30,15 +23,6 @@ def main():
 
     cc = points[:,2:10]
 
-    #data = datasets.load_boston()
-
-    #print(data.DESCR)
-
-    #df = pd.DataFrame(data.data, columns=data.feature_names)
-    #target = pd.DataFrame(data.target, columns=["MEDV"])
-
-    ##X = df["RM"]
-    ##y = target["MEDV"]
     X = cc      #### X = aa, or X = cc for multiple variables
     y = bb
 
@@ -47,10 +31,6 @@ def main():
 
     print(model.summary())
 
-
-
-
 # RUN MAIN FUNCTION
-if __name__ == "__main__": 
+if __name__ == "__main__":
     main()
-
